@@ -367,7 +367,7 @@ def main():
     
     st.sidebar.markdown("---")
     st.sidebar.info("""
-    **TraderAI Pro v5.8.6**  
+    **TraderAI Pro vF**  
     TalentSprint AIML Program  
     Stage 2 Final Project
     
@@ -586,7 +586,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666;">
-        <p>📈 TraderAI Pro v5.8.6 | TalentSprint AIML Program | Stage 2 Final Project</p>
+        <p>📈 TraderAI Pro vF | TalentSprint AIML Program | Stage 2 Final Project</p>
         <p>⚠️ Demo Mode - Simulated Data | Not Financial Advice</p>
     </div>
     """, unsafe_allow_html=True)
