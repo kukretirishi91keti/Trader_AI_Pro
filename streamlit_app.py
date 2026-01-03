@@ -576,8 +576,8 @@ def main():
         
         ---
         
-        **Version:** 5.8.6  
-        **Author:** Rishi  
+        **Version:** F  
+        **Author:** Rishi Kukreti
         **Program:** TalentSprint AIML - Stage 2  
         **Project:** Database and GenAI-Powered Visualization Tool for Day Traders
         """)
